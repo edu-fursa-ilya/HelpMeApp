@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HelpMeApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="test_phone">8(846)333-44-321</string>
+    <string name="btn_info_title">Инфо</string>
+    <string name="test_near_place">Больница им.Пирогова 3км</string>
+    <string name="test_title">Вызов скорой помощи</string>
+    <string name="police">Полиция</string>
+    <string name="hospital">Скорая</string>
+    <string name="fire">Пожарная</string>
+    <string name="gas">Газовая</string>
+    <string name="another">Другие</string>
+    <string name="med_title">Моя мед.карта</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_police"
+            android:icon="@drawable/ic_local_police_24dp"
+            android:title="@string/police" />
+        <item
+            android:id="@+id/nav_hospital"
+            android:icon="@drawable/ic_local_hospital_24dp"
+            android:title="@string/hospital" />
+        <item
+            android:id="@+id/nav_fire"
+            android:icon="@drawable/ic_flame_24dp"
+            android:title="@string/fire" />
+        <item
+            android:id="@+id/nav_gas"
+            android:icon="@drawable/ic_gas_24dp"
+            android:title="@string/gas" />
+    </group>
+
+    <item android:title="@string/another">
+        <menu>
+            <item
+                android:id="@+id/nav_med"
+                android:icon="@drawable/ic_card_membership_24dp"
+                android:title="@string/med_title" />
+        </menu>
+    </item>
+
+</menu>
